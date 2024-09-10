@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
+            Hasnain  ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
           </p>
 
           {/* <div className='herosection-name-container-button'>
