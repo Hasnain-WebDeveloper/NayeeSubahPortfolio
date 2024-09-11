@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../../websitedesignimages/heropicture.jpg'
+import picture from '../../websitedesignimages/mypic.jpg'
 import Buttons from '../Buttons';
 
 
@@ -59,7 +59,7 @@ const HeroSection = () => {
 
 
           <h2>Frontend Developer</h2>
-          <p>Lorem ipsum,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <p>Passionate front-end developer with a focus on crafting responsive, user-friendly web interfaces. Skilled in HTML, CSS, and JavaScript, delivering optimized performance and seamless user experiences. Committed to clean code and bringing creative designs to life.</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />

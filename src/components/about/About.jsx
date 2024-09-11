@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import { FiFile } from 'react-icons/fi'
-import aboutSectionImage from '../../websitedesignimages/heropicture.jpg'
+import aboutSectionImage from '../../websitedesignimages/mypic.jpg'
 import { BiBadge, BiHeadphone } from 'react-icons/bi'
 import { BsBag } from 'react-icons/bs'
 import Buttons from '../Buttons'
@@ -63,7 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-            Hasnain  ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
+            Hasnain  Ali ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
           </p>
 
           {/* <div className='herosection-name-container-button'>
