@@ -1,6 +1,7 @@
 
 import './App.css'
 import About from './components/about/About'
+import Contact from './components/contact/Contact'
 import Header from './components/header/Header'
 import HeroSection from './components/herosection/HeroSection'
 import Qualification from './components/qualification/Qualification'
@@ -26,7 +27,7 @@ function App() {
         <Skills />
         <Services />
         <Qualification />
-        <h1>Contact</h1>
+        <Contact/>
       </div>
     </>
 
